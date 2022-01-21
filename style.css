@@ -1,3 +1,11 @@
+/* 
+************************************************
+*   Project Name: ASCII Converter              *
+*   Contributers : Hafeez Rahamn, Danish       *
+*   Date: 21-Jan-2022                          *
+************************************************ 
+*/
+
 *{
   box-sizing: border-box;
   color: #fff;
@@ -6,8 +14,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Oswald", sans-serif;
-  background-image: background-color: #7ee8fa;
-  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
 }
 
 .wrapper {
