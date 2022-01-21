@@ -1,12 +1,28 @@
+<<<<<<< HEAD
 * {
+=======
+/* 
+************************************************
+*   Project Name: ASCII Converter              *
+*   Contributers : Hafeez Rahamn, Danish       *
+*   Date: 21-Jan-2022                          *
+************************************************ 
+*/
+
+*{
+>>>>>>> c255846237737e07443200978062a1c0b9901128
   box-sizing: border-box;
   color: #fff;
 }
 body {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   font-family: 'Oswald', sans-serif;
 
+=======
+  font-family: "Oswald", sans-serif;
+>>>>>>> c255846237737e07443200978062a1c0b9901128
   background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
 }
 
