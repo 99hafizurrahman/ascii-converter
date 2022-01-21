@@ -1,19 +1,13 @@
+*{
+  box-sizing: border-box;
+  color: #fff;
+}
 body {
   margin: 0;
   padding: 0;
   font-family: "Oswald", sans-serif;
-
-  background: #ffefba; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #ffffff,
-    #ffefba
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #ffffff,
-    #ffefba
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image: background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);;
 }
 
 .wrapper {
